@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/defi-bureau/static/css/main.c461c91f.css",
-    "main.js": "/defi-bureau/static/js/main.af1e310f.js",
-    "static/js/952.1e66965a.chunk.js": "/defi-bureau/static/js/952.1e66965a.chunk.js",
-    "static/js/453.6d6805a0.chunk.js": "/defi-bureau/static/js/453.6d6805a0.chunk.js",
+    "main.css": "/defi-bureau/static/css/main.2c2c646a.css",
+    "main.js": "/defi-bureau/static/js/main.cdc66268.js",
+    "static/js/952.81b08acd.chunk.js": "/defi-bureau/static/js/952.81b08acd.chunk.js",
+    "static/js/453.de067599.chunk.js": "/defi-bureau/static/js/453.de067599.chunk.js",
     "index.html": "/defi-bureau/index.html",
-    "main.c461c91f.css.map": "/defi-bureau/static/css/main.c461c91f.css.map",
-    "main.af1e310f.js.map": "/defi-bureau/static/js/main.af1e310f.js.map",
-    "952.1e66965a.chunk.js.map": "/defi-bureau/static/js/952.1e66965a.chunk.js.map",
-    "453.6d6805a0.chunk.js.map": "/defi-bureau/static/js/453.6d6805a0.chunk.js.map"
+    "main.2c2c646a.css.map": "/defi-bureau/static/css/main.2c2c646a.css.map",
+    "main.cdc66268.js.map": "/defi-bureau/static/js/main.cdc66268.js.map",
+    "952.81b08acd.chunk.js.map": "/defi-bureau/static/js/952.81b08acd.chunk.js.map",
+    "453.de067599.chunk.js.map": "/defi-bureau/static/js/453.de067599.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c461c91f.css",
-    "static/js/main.af1e310f.js"
+    "static/css/main.2c2c646a.css",
+    "static/js/main.cdc66268.js"
   ]
 }
